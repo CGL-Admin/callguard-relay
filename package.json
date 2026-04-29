@@ -1,0 +1,9 @@
+{
+  "name": "callguard-relay",
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "alawmulaw": "^6.0.0"
+  }
+}
